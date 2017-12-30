@@ -2,6 +2,10 @@
     IPA only
         Ipa provided by MrBenFTW
                 @A_MrBenMitchell
+                
+Install with Cydia Impactor
+
+
 People who helped make **C0F3** possible
 
 | Exploiters               |    Developers   |
