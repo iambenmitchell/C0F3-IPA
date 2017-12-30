@@ -4,8 +4,7 @@
                 @A_MrBenMitchell
 
 IPA Version uploaded: 1
-//
-Latest IPA Version:1
+        Latest IPA Version:1
 
 Install with Cydia Impactor
 
