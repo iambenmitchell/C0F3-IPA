@@ -8,7 +8,7 @@ COMPILED (by me) FROM: https://github.com/JosephShenton/C0F3
 IPA Version uploaded: 1
 
 
-Latest IPA Version:1.1 (build errors) I will upload when fixed.
+Latest IPA Version:1.2 (build errors) I will upload when fixed.
 
 Install with Cydia Impactor
 
