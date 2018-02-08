@@ -8,9 +8,10 @@ COMPILED (by me) FROM: https://github.com/JosephShenton/C0F3
 IPA Version uploaded: 1.3
 
 NEW DOWNLOAD!!
-https://downloads.libr8.net/Jailbreaks/C0F3-IPA/C0F3.ipa
+https://goo.gl/UALN43
 
-OLD DOWNLOAD!!!!!   http://www.mediafire.com/file/783ev0hb1ybex9a/C0F3.ipa
+OLD DOWNLOAD!!!!!   
+https://goo.gl/GYEuyU
 
 Latest IPA Version:1.3
 
