@@ -5,11 +5,14 @@
 
 COMPILED (by me) FROM: https://github.com/JosephShenton/C0F3
 
-IPA Version uploaded: 1.2
+IPA Version uploaded: 1.3
 
-NEW DOWNLOAD!!!!!   http://www.mediafire.com/file/783ev0hb1ybex9a/C0F3.ipa
+NEW DOWNLOAD!!
+https://downloads.libr8.net/Jailbreaks/C0F3-IPA/C0F3.ipa
 
-Latest IPA Version:1.2
+OLD DOWNLOAD!!!!!   http://www.mediafire.com/file/783ev0hb1ybex9a/C0F3.ipa
+
+Latest IPA Version:1.3
 
 Install with Cydia Impactor
 
